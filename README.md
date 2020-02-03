@@ -2,6 +2,7 @@
 A week scheduler for home-assistant (lovelace)
 
 
+![alt text](https://github.com/bartplessers/lovelace-scheduler/blob/master/lovelace-scheduler.png)
 
 ## What
 I was looking for an easy scheduler for my (zigbee2mqtt) thermostats.
