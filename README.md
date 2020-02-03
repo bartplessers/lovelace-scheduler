@@ -1,4 +1,4 @@
-# lovelace-scheduler
+# lovelace-scheduler for Home Assistant
 A week scheduler for home-assistant (lovelace)
 
 
